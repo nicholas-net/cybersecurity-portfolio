@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/nick-colon/">Nicholas Colon</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m a computer science student with a strong interest in cybersecurity, and this is where I share what I’ve been learning. These projects focus on things like vulnerability management and threat detection — all hands-on work that’s helping me understand how to protect systems and respond to risks. I’m actively building my skills and excited to keep pushing further into the field.
 
 
 ## ⚠️ Vulnerability Management Projects
